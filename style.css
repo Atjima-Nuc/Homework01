@@ -1,0 +1,39 @@
+* {
+  margin: 10px
+}
+
+nav {
+  margin-left: 0%;
+}
+
+a.home {
+  margin-left: 0%;
+}
+  
+
+.edu_table {
+  border: 2px solid grey;
+  border-collapse: collapse;
+  width: 900px;
+}
+
+.edu_table td, .edu_table th{
+  border : 2px solid grey;
+}
+
+.work_table {
+  border: 2px solid grey;
+  border-collapse: collapse;
+  width: 900px;
+}
+
+.work_table td {
+  border : 2px solid grey;
+}
+
+fieldset {
+  border: 2px solid lightgray;
+  width: 400px;
+  border-radius: 5px;
+  padding-left: 30px;
+}
